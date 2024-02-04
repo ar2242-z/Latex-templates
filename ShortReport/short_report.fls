@@ -1,6 +1,6 @@
-PWD c:\Users\qin_9\Desktop\LabReport_Templates\ShortReport
+PWD c:\Users\qin_9\Desktop\Latex-templates\ShortReport
 INPUT C:\Users\qin_9\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\qin_9\Desktop\LabReport_Templates\ShortReport\short_report.tex
+INPUT c:\Users\qin_9\Desktop\Latex-templates\ShortReport\short_report.tex
 OUTPUT short_report.log
 INPUT C:\Users\qin_9\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\qin_9\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
